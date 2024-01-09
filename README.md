@@ -3,6 +3,6 @@
 This project was created following the course by Jonas Schmetman.
 ## Technologies Used
 
-DOM Manipulation
+Advanced DOM and Events
 
-[Live Demo](https://your-live-link-here)
+[Live Demo](https://bankist-advancedom.netlify.app/)
